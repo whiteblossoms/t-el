@@ -7,7 +7,10 @@
     "test": "echo \"Error: no test specified\" && exit 1",
     "dev": "vitepress dev T-Element",
     "build": "vitepress build T-Element",
-    "preview": "vitepress preview T-Element"
+    "preview": "vitepress preview T-Element",
+    "docs:dev": "vitepress dev",
+    "docs:build": "vitepress build",
+    "docs:preview": "vitepress preview"
   },
   "keywords": [],
   "author": "",
